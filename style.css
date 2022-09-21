@@ -1,0 +1,22 @@
+.row{
+    border-style: solid;
+    height: 1cm;
+    width: 10cm;
+    background-color:#fc6203;
+}
+.button{
+    position: relative;
+    left: 3cm;
+    color: #fca503;
+}
+#total{
+    border-style: solid;
+    height: 15cm;
+    width: 15cm;
+    margin: auto;
+    background-color: #fc0b03;
+}
+.myapp{
+    position: relative;
+    left: 2cm;
+}
